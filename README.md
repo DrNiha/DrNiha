@@ -6,4 +6,4 @@
 
 🔍 Actively seeking opportunities to collaborate on AI-driven projects, share knowledge, and contribute to open-source initiatives. Let's connect and build a future where AI enriches lives and transforms industries!
 
-📫 Reach out to me on GitHub or LinkedIn to explore possibilities and discuss the exciting realm of AI and technology!
+📫 Reach out to me on GitHub to explore possibilities and discuss the exciting realm of AI and technology!
